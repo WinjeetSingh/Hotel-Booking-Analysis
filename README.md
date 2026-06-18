@@ -1,4 +1,3 @@
-````md
 # 🏨 Hotel Booking Analysis Dashboard
 
 <p align="center">
